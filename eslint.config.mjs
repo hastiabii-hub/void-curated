@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // User-supplied reference bundles are inputs, not application source.
+    "temp/**",
   ]),
 ]);
 
