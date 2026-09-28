@@ -407,7 +407,7 @@ export default function Experience() {
         </section>
         <section className="people-section">
           <RevealImage
-            src="a69d519b418ba234ececf4336989bfd0_260407_NOTHIN_KV08_1X1.webp"
+            src="ponpon.jpg"
             alt="A playful silver character standing in a metallic elevator"
           />
           <div className="people-copy">
