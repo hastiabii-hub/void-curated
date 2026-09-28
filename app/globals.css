@@ -162,7 +162,7 @@ ul {
 .hero-intro {
   position: absolute;
   left: 25px;
-  top: 100px;
+  top: 80px;
   z-index: 3;
 }
 .hero-intro p {
@@ -172,15 +172,16 @@ ul {
 }
 .hero-wordmark {
   position: absolute;
-  top: 52%;
+  top:6%;
   left: 25px;
   right: 25px;
   margin: 0;
-  transform: translateY(-48%);
-  font-size: 20vw;
+  /* transform: translateY(0%); */
+  transform: translateX(-2%);
+  font-size: 28vw;
   font-weight: 900;
-  letter-spacing: -0.2em;
-  line-height: 1.8;
+  letter-spacing: -0.1em;
+  line-height: 1.2;
   white-space: nowrap;
 }
 .ink-canvas {
@@ -784,7 +785,7 @@ footer {
 }
 .wordmark-text {
   display: inline-block;
-  letter-spacing: -0.15em;
+  letter-spacing: -0.1em;
   white-space: nowrap;
 }
 .footer-bottom {

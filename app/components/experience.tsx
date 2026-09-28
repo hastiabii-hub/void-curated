@@ -409,6 +409,7 @@ export default function Experience() {
           <RevealImage
             src="ponpon.jpg"
             alt="A playful silver character standing in a metallic elevator"
+            className=""
           />
           <div className="people-copy">
             <span>( Nothin’ without people )</span>
